@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Steps the caption further down the frame for each speaker, so up to four voices each get their own line.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
